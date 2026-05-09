@@ -1,0 +1,77 @@
+ 
+
+ARIA Long Clean/Decontamination Protocol 
+
+ 
+
+ 
+
+Supplies: 
+
+ 
+
+70% Ethanol 
+
+FACS Tubes 
+
+Millipore Water 
+
+Close Loop Nozzle 
+
+Autoclave 
+
+1X Preservative Free Sheath Solution 
+
+Plastic Tanks for Aria 
+
+Metal sheath tank 
+
+ 
+
+Procedure: 
+
+ 
+
+Plastic containers for ARIA should be as follows: 
+
+ 
+
+Water/FACS Clean/Ethanol 70%, at the UMGCCC FCSS core they are Water/Water/Ethanol 70%.    
+
+ 
+
+The water tanks should be emptied and rinsed out, then filled with Millipore water, and autoclaved.   
+
+ 
+
+The metal sheath tank needs to be washed out and replaced with 70% ethanol solution.  Drain filter and prime with 70% ethanol solution from sheath tank.  
+
+Once water tanks are autoclaved and cooled to room temperature, place them back on wet cart.   
+
+ 
+
+Place closed loop nozzle in, and run 70% ethanol solution in the SIP for 40 to 60 minutes.  Be sure to place FACS tube Millipore water, this will run through sip for 40 to 60 minutes.  The instrumentation should be shutdown with ethanol solution in sheath tank overnight. 
+
+ 
+
+Next day empty ethanol solution from sheath tank, rinse tank with Millipore water.  Fill tank with 1X preservative free sheath solution.  Drain filter from sheath tank and than prime with the 1X preservative free sheath solution.   
+
+Once 1X PBS is in sheath tank, place sterile water or sterile 1X phosphate buffer solution in FACS tube and run on sip for 40 to 60 minutes.    
+
+Long clean is complete and you can perform sort following BD and Flow Core Protocols.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Reference: 
+
+ 
+
+BD Decontamination of the BD FACSARIA2 or FACSARIA3 System for Aseptic Sort Procedure 

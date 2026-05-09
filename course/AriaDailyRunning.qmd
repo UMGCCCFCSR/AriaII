@@ -1,0 +1,365 @@
+Aria II Quick Reference Guide 
+
+Start Up 
+
+Area Prep 
+
+ Bio Bubble  
+
+Clean instrument 
+
+ Get tubes ready 
+
+Bleach 
+
+Water 
+
+Nozzle 
+
+Turn on cytometer 
+
+ Log in  
+
+ Power on Aria 
+
+ Check for air bubble and release if needed 
+
+Stream  
+
+ Clean sorting chamber 
+
+Nozzle holder 
+
+Flow cell area 
+
+Plates 
+
+ Nozzle 
+
+Sonicate  
+
+Make sure software is in correct configuration 
+
+Place prepped nozzle in flow cell 
+
+ Turn on stream 
+
+Check stream position in waste drawer 
+
+Focus stream light 
+
+QC Beads 
+
+Prep for Beads 
+
+ Clean Flow Cell 
+
+Bleach 
+
+Ideally 20-30 min 
+
+Flow Rate = 11 
+
+Water 
+
+Ideally 20-30 min 
+
+Flow Rate = 11 
+
+ Set Sweet Spot 
+
+Adjust amplitude 
+
+4.5 < amplitude value < 22.0 
+
+Droplet and satellite come back together by bottom line 
+
+If values are outside: 
+
+Sonicate nozzle and try again 
+
+If issue is still present, will need to change frequency Grab Dr. Fan for this 
+
+Set gap number to match current value 
+
+Change Drop 1 to match value 
+
+Set Sweet Spot On 
+
+CST Beads 
+
+ Load CST Beads 
+
+Use QC template 
+
+Flow Rate = 1.0 
+
+ Run Beads 
+
+Change window extension to 0, change back to 2 and record 
+
+ Unload Beads 
+
+Accudrop Beads 
+
+ Load Beads 
+
+Make sure event rate is above 800 
+
+Flow rate should not be above 2.0 
+
+ Prep to Run Auto Delay 
+
+Open sorting layout 
+
+Precision is set to “Fine Tune” 
+
+Start sort 
+
+Set side streams-Varies for nozzle  
+
+100um 
+
+Inner left side stream is set to ~ 11 
+
+All other side streams at 0 
+
+85um 
+
+Inner left side stream is set to ~ 21 
+
+All other side streams at 0 
+
+Turn on Optical Filter 
+
+Adjust inner left side stream 
+
+Values add up to 100.0 (doesn’t always do it for 85um) 
+
+Run Auto Delay 
+
+Make sure displayed figure looks normal 
+
+Set Side Streams for Sort 
+
+ Pick the tube holder 
+
+ Run Test Sort 
+
+ Adjust all streams, as needed 
+
+5 mL Tube Holder 
+
+Inner tubes just left of center 
+
+Outer tubes just right of center 
+
+15 mL Tube Holder just left of center 
+
+ Wash cytometer 
+
+Bleach 
+
+Water 
+
+Experiment Template Prep (can be done at any time) 
+
+Importing from Previous Run 
+
+ Import most recent experiment w/ same panel 
+
+ Duplicate without data 
+
+ Change dates as necessary 
+
+New Panel 
+
+ Import most recent experiment user ran 
+
+ Add Correct Detectors 
+
+Parameters Tab 
+
+Add and remove Detectors 
+
+Leave one open detector 
+
+Change Detector Labels 
+
+Experiment Layout 
+
+Label with marker and fluorochrome  
+
+ Remove any Compensation 
+
+ Set Up Compensation Matrix (if needed) 
+
+Shortest à Longest λ 
+
+Do not include live/dead (or put it at the end)  
+
+ Readjust Gating Plots 
+
+Delete any unnecessary gates 
+
+Make sure plots are displaying correct populations 
+
+ Delete all but 1 tube 
+
+Running Sort 
+
+Gate Set-Up 
+
+ Set Voltages 
+
+Use an all-color sample 
+
+Make sure all plots are not on biexponential  
+
+Alter Values 
+
+Adjust area scaling 
+
+Adjust scatters 
+
+Fine-tune area scaling 
+
+Adjust color voltages 
+
+Record ~ 5k events 
+
+ Compensation (if needed) 
+
+Manual Compensation 
+
+Convert scale on matrix plots to biexponential 
+
+Run and record all single colors 
+
+~1k events for beads 
+
+May need to adjust scatter values 
+
+~5k events for cells 
+
+Adjust Compensation 
+
+Change scatters gate 
+
+Shrink to population of interest 
+
+Color by color 
+
+Copy spectral overlap 
+
+Paste spectral overlap w/ zeroes on next tube 
+
+Check Compensation 
+
+Use compensation matrix 
+
+Adjust values as necessary 
+
+Paste final compensation to each tube 
+
+Check all single colors again 
+
+Paste acceptable compensation 
+
+Already recorded sample tubes 
+
+Global settings 
+
+ Gates 
+
+Adjust pre-drawn gates as needed 
+
+If new gate is needed: 
+
+Click on correct parent gate in population hierarchy 
+
+Draw gate on correct plot 
+
+ Run Additional Controls (if needed) 
+
+ Clarify Sorting Needs 
+
+Determine populations to sort 
+
+Determine cell numbers needed 
+
+Min/Max 
+
+Timing for samples 
+
+ Set Up Sorting Layout 
+
+Device Type 
+
+Sorting 
+
+ 
+
+Post Sorting 
+
+ Run Purity check, if needed 
+
+Make sure to wash with water for at least 1 min prior to running 
+
+Record ~ 2k events 
+
+ Export 
+
+Experiment 
+
+Figures 
+
+FCS Copy 
+
+Sort Reports 
+
+ Clean Instrument 
+
+Bleach 
+
+Water 
+
+ Admin Tasks 
+
+Upload data to SharePoint 
+
+Update sorting time on iLabs add  
+
+Add “set up charge”  
+
+Save and confirm booking 
+
+Delete experiment from FACSDiva once a&b are completed 
+
+Daily Shutdown 
+
+Wash Cytometer 
+
+ Bleach (~10 min) 
+
+ Water (~5 min) 
+
+Turn Off Stream 
+
+Clean Flow Cell 
+
+ Remove nozzle 
+
+Use Contrad as “cleaning agent” 
+
+Empty Waste 
+
+Turn off Aria 
+
+ Software 
+
+ Cytometer 
+
+ Computer 
+
+ bioBubble 

@@ -1,0 +1,59 @@
+UMGCCC Flow Core Aria II  
+
+Running Samples 
+
+Place tube in tube holder 
+
+Click “load” 
+
+Flow rate should not be above 4.0, event rate should be under 10,000 evt/s 
+
+ 
+
+To Sort 
+
+Click “Sort” on sort layout (window should be on right-hand screen) 
+
+Click ‘OK” on pop-up concerning the waste drawer 
+
+Click “OK” on save sort layout 
+
+ 
+
+Unloading tube 
+
+Click “Unload” 
+
+ 
+
+Cleaning After Run 
+
+Run a tube of Bleach 
+
+About 5 minutes 
+
+Flow Rate = 11 
+
+Run a tube of Water 
+
+About 2.5 min 
+
+Flow Rate = 11 
+
+Shut Down 
+
+Turn off Stream 
+
+Press green check mark on stream window 
+
+Close Software 
+
+Turn off Aria 
+
+Green Button on the left side of Aria 
+
+Turn off Bubble Hood 
+
+Flip red switch on power strip in front of computer monitors 
+
+ 

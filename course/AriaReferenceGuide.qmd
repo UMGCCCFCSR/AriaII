@@ -1,0 +1,915 @@
+Aria II Reference Guide 
+
+Start Up 
+
+Area Prep 
+
+Turn on BioBubble  
+
+Clean instrument 
+
+ Get tubes ready 
+
+Bleach 
+
+Water 
+
+Nozzle 
+
+Turn on cytometer 
+
+ Check bubble filter 
+
+ Power on Aria 
+
+ Log into software 
+
+Stream  
+
+ Clean sorting chamber 
+
+Nozzle holder 
+
+Flow cell area 
+
+Plates 
+
+ Nozzle 
+
+Sonicate if more than 1 day since last use 
+
+Make sure software is in correct configuration 
+
+Place prepped nozzle in flow cell 
+
+ Turn on stream 
+
+Check stream position in waste drawer 
+
+Focus stream light 
+
+QC Beads 
+
+Prep for Beads 
+
+ Clean Flow Cell 
+
+Bleach 
+
+Ideally 20-30 min 
+
+Flow Rate = 11 
+
+Water 
+
+Ideally 20-30 min 
+
+Flow Rate = 11 
+
+ Set Sweet Spot 
+
+Adjust amplitude 
+
+4.5 < amplitude value < 20.0 
+
+Droplet and satellite come back together by bottom line 
+
+If values are outside: 
+
+Sonicate nozzle and try again 
+
+If issue is still present, will need to change frequency à Grab Bryan/Dr. Fan for this 
+
+Set gap number to match current value 
+
+Change drop 1 to match value 
+
+Set “Sweet Spot” to on 
+
+CST Beads 
+
+ Load CST Beads 
+
+Make sure on correct QC template 
+
+Flow Rate = 1.0 
+
+ Run Beads 
+
+Change window extension 
+
+Record 
+
+ Unload Beads 
+
+Accudrop Beads 
+
+ Load Beads 
+
+Make sure event rate is above 800 
+
+Flow rate should not be above 2.0 
+
+ Prep to Run Auto Delay 
+
+Open sorting layout 
+
+Tube 
+
+Precision is set to “Fine Tune” 
+
+Start sort 
+
+Set side streams 
+
+Inner left side stream is set to ~ 21 
+
+All other side streams at 0 
+
+Turn on Optical Filter 
+
+Adjust inner left side stream 
+
+Should be just left of center in left-hand box 
+
+Values add up to 100.0 
+
+Run Auto Delay 
+
+Make sure displayed figure looks normal 
+
+Setting Up for Sort in Tubes 
+
+ Pick tube holder 
+
+ Run Test Sort 
+
+ Adjust all streams, as needed 
+
+5 mL Tube Holder 
+
+Inner tubes 
+
+Just left of center 
+
+Outer tubes 
+
+Just right of center 
+
+15 mL Tube Holder 
+
+Just left of center 
+
+ Wash cytometer 
+
+Bleach 
+
+Water 
+
+Setting Up for Plate Sort 
+
+ General Notes 
+
+100 µm nozzle only 
+
+Flow rate = 1.0 
+
+Evts/sec ≤ 1,000 
+
+Sorting Precision = Single Cell 
+
+ Plate Adapter and Side Stream Adjustment 
+
+Clean plate adapter with EtOH 
+
+Insert adapter into sorting chamber 
+
+Adjust the side stream position 
+
+Close all but far left side stream 
+
+Adjust stream 
+
+Just left of the waste catch 
+
+Stream falls through the hole in the plate adapter 
+
+Turn on plate voltage 
+
+ Adjust Plate Positioning 
+
+Initial position assessment 
+
+Sort à Home Device 
+
+Select the correct plate that you will be using for the sort 
+
+Typically, will be “Falcon 96-well” 
+
+Test the current plate position 
+
+Click the test sort button on the plate window 
+
+Look at the position of the droplet within the A1 well 
+
+Adjust plate position and re-test 
+
+Based on the placement of the initial test sort above, adjust the plate position 
+
+Re-test with the test sort 
+
+Repeat steps as necessary until droplet is in the center of the well 
+
+Save the position 
+
+Click “Set Home” 
+
+Close out window 
+
+ Test Sort 
+
+Open plate sort layout 
+
+Not P2 Gate 
+
+15 events per well 
+
+At least ½ of rows and columns selected for sorting 
+
+Run the plate sort with Accudrop beads 
+
+Remove plate from holder and evaluate 
+
+All sorted droplets should be at center of well (or close) 
+
+Adjust the plate positioning if needed 
+
+Experiment Template Prep (can be done at any time) 
+
+Importing from Previous Run 
+
+ Import most recent experiment w/ same panel 
+
+ Duplicate without data 
+
+ Change dates as necessary 
+
+New Panel 
+
+ Import most recent experiment user ran 
+
+ Add Correct Detectors 
+
+Parameters Tab 
+
+Remove Unneeded Detectors 
+
+Add Detectors 
+
+All detectors that match dyes on sorting form 
+
+Leave one open detector 
+
+Change Detector Labels 
+
+Experiment Layout 
+
+Label with marker and fluorochrome  
+
+ Remove any Compensation 
+
+ Set Up Compensation Matrix (if needed) 
+
+Shortest à Longest λ 
+
+Do not include live/dead 
+
+ Readjust Gating Plots 
+
+Delete any unnecessary gates 
+
+Make sure plots are displaying correct populations 
+
+ Delete all but 1 tube 
+
+Totally New Experiment 
+
+ Create new experiment 
+
+Experiment à Experiment Template à Blank experiment w/ sample tube 
+
+ Relabel Experiment 
+
+Name 
+
+Year-MMDD_UserInitials_ 
+
+Specimen 
+
+Year-MMDD 
+
+ Adjust Detectors 
+
+Make sure proper parameters are being recorded 
+
+FSC and SSC 
+
+Linear 
+
+A 
+
+H 
+
+W 
+
+Colors 
+
+Log 
+
+A 
+
+See III B 2 for further information 
+
+ Create Plots 
+
+Population Hierarchy 
+
+Populations à Show Population Hierarchy 
+
+Scatters Plot 
+
+FSC-A vs SSC-A 
+
+Singlets Plot 
+
+FSC-H vs FSC-W 
+
+Area Scaling Plot 
+
+FSC-H vs FSC-A 
+
+Compensation Matrix 
+
+If needed. 
+
+See III B 4 
+
+Any potential gating plots 
+
+ Prepare Template for Run 
+
+Change voltages for FSC and SSC 
+
+1 ≤ FSC ≤ 100 
+
+250 ≤ SSC ≤ 350 
+
+Record a few events to save voltages 
+
+Change the stopping gate to singlets 
+
+Running Sort 
+
+Gate Set-Up 
+
+ Cell Suspension Prep 
+
+Check to see if cells need to be filtered 
+
+Make sure event rate is below threshold for nozzle 
+
+Event Thresholdnozzle= Diameternozzle4
+E
+v
+e
+n
+t
+ 
+T
+h
+r
+e
+s
+h
+o
+l
+d
+n
+o
+z
+z
+l
+e
+=
+ 
+D
+i
+a
+m
+e
+t
+e
+r
+n
+o
+z
+z
+l
+e
+4
+ 
+    
+
+If event rate ≥ event threshold 
+
+Check flow rate is at 1.0 
+
+Dilute suspension, if necessary 
+
+ Set Voltages 
+
+Use an all-color sample 
+
+Make sure all plots are not on biexponential  
+
+Alter Values 
+
+Adjust area scaling 
+
+Adjust scatters 
+
+Fine-tune area scaling 
+
+Adjust color voltages 
+
+Record ~ 5k events 
+
+ Compensation (if needed) 
+
+Manual Compensation 
+
+Convert scale on matrix plots to biexponential 
+
+Run and record all single colors 
+
+~1k events for beads 
+
+May need to adjust scatter values 
+
+~5k events for cells 
+
+Adjust Compensation 
+
+Change scatters gate 
+
+Shrink to population of interest 
+
+Color by color 
+
+Copy spectral overlap 
+
+Paste spectral overlap w/ zeroes on next tube 
+
+Check Compensation 
+
+Paste final compensation to each tube 
+
+Check all single colors again 
+
+Paste acceptable compensation 
+
+Already recorded sample tubes 
+
+Global settings 
+
+Automatic Compensation 
+
+Set-Up 
+
+“Create Compensation Controls” 
+
+Delete Unnecessary Values 
+
+Labeled detectors 
+
+Live/dead detector 
+
+Un-used detector 
+
+Switch to compensation worksheet 
+
+Record Single Colors 
+
+Calculate Compensation 
+
+“Link & Save” 
+
+Change back to experiment worksheet 
+
+Check Compensation 
+
+Use compensation matrix 
+
+Adjust values as necessary 
+
+Follow procedures in Manual Compensation sections iii – iv. 
+
+ Gates 
+
+Adjust pre-drawn gates as needed 
+
+If new gate is needed: 
+
+Click on correct parent gate in population hierarchy 
+
+Draw gate on correct plot 
+
+Make sure populations shown are valid 
+
+Draw gate 
+
+ Run Additional Controls (if needed) 
+
+ Clarify Sorting Needs 
+
+Determine populations to sort 
+
+Determine cell numbers needed 
+
+Min/Max 
+
+See what cells will be used for 
+
+Timing for samples 
+
+Preferred contact method 
+
+ Set Up Sorting Layout 
+
+Device Type 
+
+Adjust all values as determined in section 5 
+
+Sorting 
+
+ Prior to sorting start 
+
+Tubes 
+
+Make sure collection tubes are in holder 
+
+Verify tubes match sorting layout positions 
+
+Keep tube caps sterile 
+
+Put holder in plastic container with ice packs 
+
+Sample 
+
+Double check cell concentration 
+
+See IVA1bi 
+
+ During sort 
+
+Note: All steps should be done throughout the entire sorting process 
+
+Ensure that sample line is not clogging 
+
+Event rate should not be jumping drastically 
+
+FSC and SSC should look same as start of run 
+
+Stream should be stable 
+
+Image looks stable 
+
+Amplitude is stable 
+
+Record full amount of events 
+
+Watch collection tubes 
+
+Approximate cell counts for 85 µm nozzle 
+
+Microcentrifuge =  
+
+5 mL tube = 1.5x106 
+
+15 mL tube = 6.0x106 
+
+Approximate cell counts for 100 µm nozzle 
+
+Microcentrifuge =  
+
+5 mL tube = 1.0x106 
+
+15 mL tube = 3.0x106 
+
+Watch sample tube 
+
+Make sure not running out of volume 
+
+Filter as needed 
+
+Evaluate sort  
+
+Flow rate ≤ 4.0 
+
+Efficiency ≥ 85% 
+
+Check sorting rate 
+
+[Equation] 
+
+Cell countstart = Cell number right before “Restart” is hit 
+
+Cell countend = Cell number right as “Elapsed Time” hits 00:01:00 
+
+Change rate to match desired evaluation period 
+
+Cells/hr 
+
+Used to determine if able to hit desired cell number within allotted time 
+
+[Equation] 
+
+Cells/min  
+
+Can give a better idea of when a tube will need to be changed 
+
+[Equation] 
+
+Communicate with sort user 
+
+If rate calculations indicate cell number will not hit desired value in allotted time 
+
+If you know desired cell count cannot be reached with sample given 
+
+When samples are done 
+
+Any other concerns as needed 
+
+Post Sorting 
+
+ Run Purity check, if needed 
+
+Make sure to wash with water for at least 1 min prior to running 
+
+Event rate should show zero consistently before running purity 
+
+Record ~ 2k events 
+
+ Export 
+
+Experiment 
+
+Figures 
+
+Sort Reports 
+
+ Clean Instrument 
+
+Bleach 
+
+Water 
+
+ Admin Tasks 
+
+Upload data to SharePoint 
+
+Update sorting time on iLabs 
+
+Delete experiment from FACSDiva once a&b completed 
+
+Daily Shutdown 
+
+Wash Cytometer 
+
+ Bleach (~10 min) 
+
+ Water (~5 min) 
+
+Turn Off Stream 
+
+Clean Flow Cell 
+
+Use water as “cleaning agent” 
+
+Remove Nozzle 
+
+Empty Waste 
+
+Turn off Aria 
+
+ Software 
+
+ Cytometer 
+
+ Computer 
+
+ bioBubble 
+
+Cytometer Maintenance 
+
+Weekly Start Up 
+
+ Empty EtOH 
+
+Drain EtOH from filter 
+
+Pour EtOH from sheath tank back into EtOH container 
+
+Rinse tank with water ≥ 2 times 
+
+ Flush System with Water 
+
+Fill sheath tank with water 
+
+Connect tank to Aria 
+
+Filter 
+
+Air Pressure 
+
+Circular Connector 
+
+Run Fluidics Start Up 
+
+Possible Nozzle Choices: 
+
+Closed Loop 
+
+Bad 130 µm 
+
+Bleed Filter of Air 
+
+After loud clicks 
+
+Use top port 
+
+Rinse Filter with Water 
+
+Use bottom port 
+
+Fill the funnel bucket once 
+
+Repeat at least 1 more time 
+
+Drain Sheath Tank 
+
+Remove Connectors 
+
+Dump Water in Sink 
+
+ Flush System with Sheath 
+
+Make Sheath 
+
+Can be done during water steps above 
+
+10X stock solution à 1X in Tank 
+
+Use Sterile Bottles 
+
+Rinse Tank with Water ≥ 2 Times 
+
+Add 1X Sheath to Tank 
+
+Reconnect Tank to Aria 
+
+Run Fluidics Start Up 
+
+Bleed Filter of Air 
+
+Use Same Nozzle as Water 
+
+Remove nozzle and get ready for set up 
+
+Weekly Shut Down 
+
+ Disconnect tank from fluidics cart 
+
+ Drain filter of sheath  
+
+Add EtOH to Tank 
+
+Dump Remaining Sheath in Sink 
+
+Rinse with Water ≥ 2 times 
+
+Add EtOH  
+
+Reconnect to Fluidics Cart 
+
+ Run Fluidics Start Up 
+
+Possible Nozzle Choices: 
+
+Closed Loop 
+
+Bad 130 µm 
+
+Bleed Filter of Air 
+
+Note: This is only needed for 1st Fluidics Start Up 
+
+After loud clicks 
+
+Use top port 
+
+ Repeat ≥ 1 time 
+
+ Add “Ethanol” label to sheath tank  
+
+Turn off cytometer 
+
+Bleach Clean (In Progress) 
+
+ When to run 
+
+Quarterly 
+
+After several contamination events 
+
+ Run Bleach  
+
+Disconnect tank from Fluidics Cart 
+
+Remove filter from fluidics line 
+
+Drain filter of sheath 
+
+ Make bleach 
+
+5% Bleach 
+
+≤ 5 L 
+
+Add bleach to tank 
+
+Reconnect tank to Fluidics Cart 
+
+Make sure filter is NOT connected to tank 
+
+ Run Fluidics Start Up 
+
+Use bad 130 µm nozzle 
+
+ Turn on stream 
+
+ Run bleach tube for ≥ 1 hour 
+
+Turn off stream 
+
+Disconnect tank from Fluidics Cart 
+
+Dump bleach in sink 
+
+ Clean Sheath Tank 
+
+Rinse tank with water and dump 
+
+Full Tank Rinse 
+
+Fill tank with water 
+
+Close Tank with Lid 
+
+Roll water around ENTIRE tank 
+
+Dump water 
+
+Repeat ≥ 2 times 
+
+ Run Water 
+
+1st System Rinse 
+
+Add water to tank 
+
+Connect tank to Fluidics Cart 
+
+Filter is NOT attached to fluidics line 
+
+Run Fluidics Start Up 
+
+Turn on stream 
+
+Run water tube ≥ 30 min 
+
+Turn off stream 
+
+Disconnect tank from Fluidics Cart 
+
+2nd System Rinse 
+
+Attach filter to fluidics line 
+
+Repeat steps a iii- a v 
+
+Bleed filter of air during fluidics start up 
+
+Leave system in water if done before break 
+
+Otherwise run a sheath start up 

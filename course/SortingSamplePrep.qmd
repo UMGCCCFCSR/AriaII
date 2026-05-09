@@ -1,0 +1,35 @@
+ 
+
+Flow Cytometry Shared Services 
+
+Sample Preparation:  
+
+The key for a fast, pure sort is to avoid aggregation.  Aggregation can clog the nozzle, disturb droplet formation.  The result is poor purity and slow sort.   
+
+Sample buffer: PBS + 1% BSA + 1 mM EDTA.  Protein and Ca/Mg increase aggregation.  Serum has both, so avoid it if cells can survive. 
+
+Use 1 mM EDTA throughout, starting from the time harvesting the cells.  This improves the sort efficiency.  On a PBMC sample, without EDTA, efficiency 60%; with EDTA, over 90%. 
+
+If you use trypsin to detach the cells, do it as short as possible.  3-5 min range.  Longer time results in aggregation.  Avoid using high concentration of FBS to neutralize.  More protein covering the cells will increase aggregation.  1% FBS is good, 2% max.  Centrifuge gently, with just enough speed to bring cells down.  
+
+Too many dead cells and DNA released from them can make the sample sticky. 
+
+Sample concentration: 3 million/ml for adherent cells, 10-15 million/ml for non-adherent smaller cells such as lymphocytes.  Sort time: 2 ml / h.  When counting the cells, please include dead cells and debris.  Sorter needs to see them to gate them out. 
+
+Keep samples on ice.  Filter samples using Falcon 5 ml tube with strainer cap (352235).  Bring 10 ml sample buffer so I can dilute and rinse. 
+
+Collection:   
+
+Using 100um nozzle, you will get 3.5 ml of PBS / 1 million cells.   
+
+85um nozzle, 2 ml PBS/ 1 million cells. 
+
+Can sort into 1.5 ml, 5 ml, 15 ml tubes and 96 well plate. 
+
+Collection tubes can be: 
+
+BD Falcon 5 ml collection tube (Ref 352058) 
+
+BD Falcon 15 ml polystyrene conical tube (Ref 352095) 
+
+Buffer in collection tubes, PBS+10% serum.  Coat 2/3 of the tube with it overnight or 1 h in advance.  Just to wet the tube wall and coat it with proteins.  You can use other buffer, just avoid culture medium, because PH is wrong without CO2. 
